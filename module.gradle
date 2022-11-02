@@ -1,0 +1,13 @@
+ext {
+    moduleLibraryName = "example"
+    moduleMinRiruApiVersion = 25
+    moduleMinRiruVersionName = "v25.4.2"
+    moduleRiruApiVersion = 25
+    magiskModuleId = "riru-example"
+
+    moduleName = "Riru - Example"
+    moduleAuthor = "MagiskDelta"
+    moduleDescription = "Example"
+    moduleVersion = "v1.0"
+    moduleVersionCode = 1
+}
